@@ -1,7 +1,15 @@
 # SecureSpace - Automated Surveillance Alert System
-The datset used are : Fire and Smoke Dataset : https://www.kaggle.com/datasets/dataclusterlabs/fire-and-smoke-dataset
 
-Violence and Non-Violence Dataset : https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
+**Abstract** — A surveillance and Alert System is used for detecting the Violence Activity and fire spread that takes place in the surveillance environment and alerts the concerned authority. Today, the most fundamental impactful security feature that a premise can have is CCTV surveillance. Being the most well-known method of stopping and identifying undesirable activities, it is present in various premises. Like, A college campus with CCTV in a variety of structures, such as dormitories, classrooms, canteen, sports complex, auditorium, etc. Even if the incident had already occurred, manually searching for it in the recorded video is a time-consuming process. The aim of the project is to create a Long-term recurrent convolutional network (LRCN) system for the environment (for example the academic campus) to monitor CCTV surveillance and detect violent activity like — **fighting, and fire incidents**. The system can be used to create an alert message via mail with the video of the detected activity which will be sent to the respected authority.
 
-The Dataset used to create this Model : https://drive.google.com/drive/folders/1EZ0yA-3WB-zRjIRZ3HsyAlqxJnvy4eeR?usp=share_link
+**Keywords** — Violence Detection, Alert Generation, LRCN, Fire detection, Non-violence
+
+To Refer to this project, Kindly check out this [Research Paper](https://ijsrem.com/download/securespace-automated-surveillance-alert-system/)
+
+The datset used are : 
+[Fire and Smoke Dataset](https://www.kaggle.com/datasets/dataclusterlabs/fire-and-smoke-dataset)
+
+[Violence and Non-Violence Dataset](https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset)
+
+[The Dataset used to create this Model](https://drive.google.com/drive/folders/1EZ0yA-3WB-zRjIRZ3HsyAlqxJnvy4eeR?usp=share_link)
 
